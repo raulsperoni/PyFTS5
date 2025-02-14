@@ -63,7 +63,7 @@ with FullTextSearchDB(docs) as fts_db:
 Unit tests are written with pytest. To run the tests, simply run:
 
 ```bash
-pytest
+poetry run pytest
 ```
 
 ## License
