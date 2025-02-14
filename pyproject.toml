@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "PyFTS5"
+version = "0.1.0"
+description = "A lightweight wrapper for in‑memory SQLite FTS5 full‑text search in Python."
+authors = ["Your Name <you@example.com>"]
+license = "MIT"
+readme = "README.md"
+homepage = "https://github.com/yourusername/PyFTS5"
+repository = "https://github.com/yourusername/PyFTS5"
+documentation = "https://github.com/yourusername/PyFTS5/blob/main/README.md"
+keywords = ["sqlite", "fts5", "full-text search", "python", "sqlite3"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
