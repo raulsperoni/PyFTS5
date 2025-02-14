@@ -26,7 +26,7 @@ Clone the repository and run:
 poetry install
 ```
 
-If published on PyPI, install via pip:
+Install via pip:
 
 ```bash 
 pip install PyFTS5
