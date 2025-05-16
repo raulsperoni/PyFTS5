@@ -36,7 +36,7 @@ pip install PyFTS5
 Below is a quick example:
 
 ```python
-from fts_search_db import FullTextSearchDB
+from pyfts5.core import FullTextSearchDB
 
 # Prepare some documents as (doc_id, content) pairs.
 docs = [
